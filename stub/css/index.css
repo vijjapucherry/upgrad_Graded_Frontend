@@ -1,0 +1,65 @@
+body{
+   background: url('background.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+   margin: 0 !important;
+   background-size: 100% cover!important;
+   overflow:hidden;
+   display: block;
+} 
+.postButtons{
+	position:absolute;
+	top:350px;
+	left:650px;
+
+}
+
+#exampleModalLongTitle{
+	
+	text-align:center;
+	font-style:bold;
+	color:blue;
+}
+#formbutton{
+	width:300px;
+	margin-left:120px;
+	background-color:#33A532;
+	
+
+}
+#formtext{
+	font-size:22px;
+}
+#inputtype{
+	background-color:white;
+}
+#postContent {
+                    width: 100%;
+                    background: #f1f1f1;
+                }
+				#newPostTitle {
+                 width: 50%;
+                padding: 10px 10px 10px 10px;
+                }
+				 #newPostSubmit {
+                    background-color: #4CAF50;
+                    color: white;
+                    padding: 10px 10px 10px 10px;
+                    border: none;
+                    cursor: pointer;
+                    width: 10%;
+                    opacity: 0.9;
+                    margin-left: 46%;
+                   text-align: center;
+                   margin-top: 8px;
+                   font-size: 15px;
+                }
+				#signtext{
+					cursor:pointer;
+				}
+
+
+/* Set a style for the rest of the elements besides the header elements on the index.html page */
+                                 

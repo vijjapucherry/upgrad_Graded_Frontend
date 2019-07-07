@@ -1,0 +1,45 @@
+/* Set a style for all elements inside the header i.e. Sign Up button, Sign In button, 
+the title "ScriBBler" & the sub-heading below "ScriBBLer" */
+
+#sigin
+{		
+width: 90px;
+padding: 10px;
+cursor: pointer;
+font-weight: 500;
+font-size: 90%;
+background: #0000ff;
+color: #fff;
+float: right;                   
+margin: 10px 10px 0px 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#signup
+{
+	
+width: 90px;
+padding: 10px;
+cursor: pointer;
+font-weight: 500;
+font-size: 90%;
+background: #0000ff;
+color: #fff;
+float: right;                   
+margin: 10px 10px 0px 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+font-family: 'Satisfy', cursive;
+font-size: 50px;
+color: #112fb4;
+margin-right:100px;
+text-decoration: none;
+margin: 10px 10px 0px 10px;
+}
+#tag{
+		bottom:50px;
+		font-family:'Satisfy', 'cursive';
+		margin-left:20px;
+		font-size:10px;
+		
+}
